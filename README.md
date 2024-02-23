@@ -1,6 +1,4 @@
-# Backrooms-Game
- 
-This is the first game I've made on unreal engine 5. I did it as a learning-oriented study.
+# The Backrooms
 
 ### The video of the game
 
