@@ -7,7 +7,11 @@ This is the first game I've made on unreal engine 5. I did it as a learning-orie
 ### The video of the game
 
 <p> 
-  <a href=" https://www.youtube.com/watch?v=Zbi7n7fJC9M&list=PLZYP8uL25nbWPKkWl8O8XPqvdUq9r_n_v&index=2" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="40"/>
+  <a href="https://youtu.be/pEC9vsVYTLI" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="40"/>
+  </a> </p>
+
+  <p> 
+  <a href="https://youtu.be/Zbi7n7fJC9M?si=CapuYSXN2JEtGzi7" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="40"/>
   </a> </p>
   
 ## The Screenshots
