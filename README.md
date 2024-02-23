@@ -2,9 +2,7 @@
 
 ### The video of the game
 
-<p> 
-  <a href="https://youtu.be/Zbi7n7fJC9M?si=CapuYSXN2JEtGzi7" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="40"/> </a> 
-</p>
+<p>  <a href="https://youtu.be/Zbi7n7fJC9M?si=CapuYSXN2JEtGzi7" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="40"/> </a> </p>
   
 ## The Screenshots
 
@@ -19,7 +17,7 @@ Dive into the eerie world of the backrooms, where reality blurs and endless corr
 
 ![Screenshot of Backrooms Game](screenshot.png)
 
-Watch the gameplay trailer on YouTube: [Backrooms Game Trailer](https://youtu.be/Zbi7n7fJC9M?si=CapuYSXN2JEtGzi7)
+Watch the gameplay trailer on YouTube: [Backrooms Game Trailer]<p>  <a href="https://youtu.be/Zbi7n7fJC9M?si=CapuYSXN2JEtGzi7" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="40"/> </a> </p>
 
 ## Features
 
