@@ -6,7 +6,7 @@ Welcome to the Backrooms Game, an immersive experience crafted using Unreal Engi
 Dive into the eerie world of the backrooms, where reality blurs and endless corridors await exploration. Inspired by the internet urban legend, this game puts you in the shoes of an adventurer trapped in a labyrinthine dimension beyond comprehension.
 
 Watch the gameplay trailer on YouTube:
-<p> <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="40"/> </a> </p>
+<p> <a href="https://youtu.be/rToDxkOCzDY" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="40"/> </a> </p>
 
 ## Features
 
